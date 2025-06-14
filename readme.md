@@ -2,7 +2,7 @@
 
 
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&label=Tudor%20Olariu)](https://www.linkedin.com/in/tudor-olariu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tudor%20Olariu-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tudor-olariu/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Tudor%20Olariu-black?logo=github&logoColor=white)](https://github.com/Teebawr)
 
