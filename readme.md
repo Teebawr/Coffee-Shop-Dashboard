@@ -2,14 +2,10 @@
 
 
 &nbsp;
-<p>
-  <a href="https://www.linkedin.com/in/tudor-olariu/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Tudor%20Olariu-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/Teebawr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Tudor%20Olariu-black?logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tudor%20Olariu-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tudor-olariu/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Tudor%20Olariu-black?logo=github&logoColor=white)](https://github.com/Teebawr)
+
 
 An interactive dashboard to explore and analyze coffee shop sales. Transaction records from a fictitious coffee shop in New York City.
 
